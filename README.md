@@ -1,29 +1,72 @@
 # BurgerBrand
 
-A web application template for a modern street food or burger restaurant.
+A website template for a burger restaurant or street food project.  
+Шаблон сайта для бургерной, фастфуд-проекта или стритфуд-бренда.
 
 ---
 
 ## О проекте (RU)
 
-BurgerBrand — это шаблон веб-сайта для ресторана быстрого питания или стрит-фуд проекта.
+BurgerBrand — это frontend-шаблон для сайта заведения быстрого питания.  
+Проект подходит для бургерной, стритфуда, небольшого кафе или промо-сайта с меню, событиями и информацией о заведении.
 
-### Основные возможности
+### Что есть в проекте
 
-- Разделы: Главная страница, Афиша (события), Меню, Локации с галереями, О нас.
-- Технологический стек: React, Vite, Tailwind CSS.
-- Анимации: Настроены плавные появления элементов при скролле с использованием GSAP.
-- Адаптивный дизайн для мобильных устройств и десктопов.
+- главная секция
+- афиша / блок с событиями
+- меню
+- блок с локациями
+- раздел «О нас»
+- адаптация под мобильные устройства и десктоп
+- анимации при скролле
+
+### Стек
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- GSAP
 
 ---
 
 ## About the Project (ENG)
 
-BurgerBrand is a website template tailored for a burger joint or street food brand.
+BurgerBrand is a frontend website template for a fast food or street food business.  
+It can be used for a burger restaurant, cafe, small food brand, or promo website with menu, events, and location sections.
 
-### Key Features
+### Included sections
 
-- Sections: Main Landing, Afisha (events), Menu, Locations with galleries, About Us.
-- Tech Stack: React, Vite, Tailwind CSS.
-- Animations: Scroll-triggered reveal animations built with GSAP.
-- Fully responsive design for mobile and desktop screens.
+- main landing section
+- events section
+- menu section
+- locations section
+- about section
+- responsive layout for mobile and desktop
+- scroll-based animations
+
+### Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- GSAP
+
+---
+
+## Скриншоты / Screenshots
+
+### Main Page
+![Main Page](assets/screenshots/main-page.png)
+
+### Menu Section
+![Menu Section](assets/screenshots/menu-section.png)
+
+### Events Section
+![Events Section](assets/screenshots/events-section.png)
+
+### About Section
+![About Section](assets/screenshots/about-section.png)
+
+---
